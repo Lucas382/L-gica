@@ -1,4 +1,4 @@
-#recebe uma string e conta vogais contidas nela.
+#recebe do usuario uma string e conta vogais contidas nela.
 def main():
     print("Digite um texto para que possa ser identificado o número de vogais: ")
     vogais = ['a', 'e', 'i', 'o', 'u']
