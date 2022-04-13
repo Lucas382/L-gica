@@ -1,5 +1,5 @@
 #calcula o tamanho de um edificio baseado no numero de andares
-#a altura de cada andar.
+#e a altura de cada andar.
 
 def main():
 
