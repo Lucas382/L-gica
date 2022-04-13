@@ -1,5 +1,5 @@
-#recebe um array de numeros em qualquer ordem e transforma em um array
-# com arranjo de numeros em ordem decrescente.
+#recebe um array de numeros e separa em 2 outros arrays,
+# um contendo apenas numeros impares e outro contendo apenas numeros pares.
 
 def main():
     array_completo = [1,3,35,40,85,123,121,209,200,305,350]
