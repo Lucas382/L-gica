@@ -1,4 +1,4 @@
-#Recebe um array de 5 números do usuario e transforma em um array ordenado (ordem decrescente).
+#Pergunta 5 números para o  usuario e transforma em um array ordenado (ordem decrescente).
 
 def main():
     arr =[]
